@@ -28,8 +28,8 @@ pip install graphviz
 Сохраняет результат в формате DOT в указанное пользователем
 
 **Пример работы:**
-![Alt text]()
+![Alt text](https://github.com/diedfck/dependencies-graph/blob/main/1.PNG)
 
-## Запустим программу запросом: >py main.py @babel/core ./package-lock.json ./output.dot 4
+#Запустим программу запросом: >py main.py @babel/core ./package-lock.json ./output.dot 4
 
-![Alt text]()
+![Alt text](https://github.com/diedfck/dependencies-graph/blob/main/2.PNG)
