@@ -18,7 +18,7 @@ python main.py lodash ./package-lock.json ./dependency_graph 3
 Этот пример создаст граф зависимостей пакета lodash с глубиной 3 и сохранит его в файл dependency_graph.dot.
 
 **Установка и требования:**
-Вам необходим graphviz
+Нам необходим graphviz
 pip install graphviz
 
 **Принцип работы:**
