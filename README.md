@@ -29,3 +29,7 @@ pip install graphviz
 
 **Пример работы:**
 ![Alt text]()
+
+## Запустим программу запросом: >py main.py @babel/core ./package-lock.json ./output.dot 4
+
+![Alt text]()
